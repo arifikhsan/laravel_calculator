@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Arifikhsan\LaravelCalculator\CalculatorServiceProvider::class,
 
         /*
          * Application Service Providers...
